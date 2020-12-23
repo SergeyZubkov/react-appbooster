@@ -1,0 +1,20 @@
+.flag-icon-placeholder {
+    display: 'inline-block'; 
+    width: '30px'; 
+    height: '20px'; 
+    border: "1px solid #efefef";
+}
+
+main .currency-list {
+    width: 600px;
+}
+
+main h2 {
+    position: relative;
+}
+
+main h2 .MuiFormControl-root {
+    position: absolute;
+    top: 5px;
+    margin-left: 10px;
+}
